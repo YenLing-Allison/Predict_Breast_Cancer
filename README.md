@@ -6,7 +6,7 @@ https://github.com/YenLing-Allison/Predict_Breast_Cancer
 2. Present a brief overview of your predictive modeling process, explorations, and discuss your results. Make sure you present information about the model “goodness” (possible things to think about: confusion matrix, predictive accuracy, classification error, precision, recall, f-measure).
 
 # Data Resource
-Dataset: https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/wdbc.data
+Dataset: https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/wdbc.data  
 Data description: https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/wdbc.names
 
 # Analysis Process
@@ -16,3 +16,10 @@ Data description: https://archive.ics.uci.edu/ml/machine-learning-databases/brea
 4. Build the model using the best performance of validation data
 5. Make a prediction
 6. Evaluate performance
+<img width="960" alt="analysis_process" src="https://github.com/YenLing-Allison/Predict_Breast_Cancer/assets/144725779/3daf1d7b-696c-4f51-ba71-2bb99353507f">
+
+# Result
+I use **f-measure** to compare different models, because f-measure combines the precision and recall score.
+Besides f-measure, I use precision and recall sequently to evaluate models, because precision can give me information to capture actual Malignant/Benign among predictions of all Malignant/Benign.
+According to different performance of different models, I think that **KNN is the best model**.
+
