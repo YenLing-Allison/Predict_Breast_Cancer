@@ -16,7 +16,8 @@ Data description: https://archive.ics.uci.edu/ml/machine-learning-databases/brea
 4. Build the model using the best performance of validation data
 5. Make a prediction
 6. Evaluate performance
-<img width="960" alt="analysis_process" src="https://github.com/YenLing-Allison/Predict_Breast_Cancer/assets/144725779/3daf1d7b-696c-4f51-ba71-2bb99353507f">
+<img width="960" alt="analysis_process" src="https://github.com/YenLing-Allison/Predict_Breast_Cancer/assets/144725779/14f5e8b0-649e-4474-b0d1-55531875da80">
+
 
 # Result
 I use **f-measure** to compare different models, because f-measure combines the precision and recall score.
