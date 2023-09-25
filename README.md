@@ -11,9 +11,9 @@ Data description: https://archive.ics.uci.edu/ml/machine-learning-databases/brea
 
 # Analysis Process
 1. Split the data into Training, Validation, and Testing data
-2. Build a model and adjust hyperparameters
+2. Build the models and tune hyperparameters
 3. Plot the fitting graph to see when is underfitting and overfitting
-4. Build the model using the best performance of validation data
+4. Build the models using the best performance of validation data
 5. Make a prediction
 6. Evaluate performance
 <img width="960" alt="analysis_process" src="https://github.com/YenLing-Allison/Predict_Breast_Cancer/assets/144725779/14f5e8b0-649e-4474-b0d1-55531875da80">
