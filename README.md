@@ -23,4 +23,10 @@ Data description: https://archive.ics.uci.edu/ml/machine-learning-databases/brea
 I use **f-measure** to compare different models, because f-measure combines the precision and recall score.
 Besides f-measure, I use precision and recall sequently to evaluate models, because precision can give me information to capture actual Malignant/Benign among predictions of all Malignant/Benign.
 According to different performance of different models, I think that **KNN is the best model**.
+| Model | Accuracy |
+| --- | --- |
+| Decision Tree | 0.91 |
+| Logistic Regression - L1 | 0.95 |
+| Logistic Regression - L2 | 0.95 |
+| KNN | 0.95 |
 
