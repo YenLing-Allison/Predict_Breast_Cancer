@@ -16,7 +16,8 @@ Data description: https://archive.ics.uci.edu/ml/machine-learning-databases/brea
 4. Build the models using the best performance of validation data
 5. Make a prediction
 6. Evaluate performance
-<img width="960" alt="analysis_process" src="https://github.com/YenLing-Allison/Predict_Breast_Cancer/assets/144725779/14f5e8b0-649e-4474-b0d1-55531875da80">
+![analysis_process](https://github.com/YenLing-Allison/Predict_Breast_Cancer/assets/144725779/ea028324-b59b-452e-9e13-6b13a8310d99)
+
 
 
 # Result
