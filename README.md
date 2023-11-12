@@ -26,7 +26,7 @@ According to different performance of different models, I think that **KNN is th
 | Model | Accuracy |
 | --- | --- |
 | Decision Tree | 0.91 |
-| Logistic Regression - L1 | 0.95 |
-| Logistic Regression - L2 | 0.95 |
+| Logistic Regression - L1 | 0.94 |
+| Logistic Regression - L2 | 0.94 |
 | KNN | 0.95 |
 
